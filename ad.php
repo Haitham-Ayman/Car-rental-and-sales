@@ -1,0 +1,2 @@
+<textarea name="text" cols="50" rows="10" class="w-100"></textarea><br>
+<div class="d-flex justify-content-center"><input type="submit" name="send" class="btn btn-info d-flex justify-content-center text-light" value="إرسال"></div>
