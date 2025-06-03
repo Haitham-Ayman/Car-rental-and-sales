@@ -91,3 +91,4 @@ When a **User** logs in, they can:
 - Admin credentials:
   - **Username:** `admin`
   - **Password:** `admin`
+## To Run a website in local you need xampp program (https://www.apachefriends.org/download.html)
