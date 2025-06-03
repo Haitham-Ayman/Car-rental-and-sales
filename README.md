@@ -91,4 +91,7 @@ When a **User** logs in, they can:
 - Admin credentials:
   - **Username:** `admin`
   - **Password:** `admin`
-## To Run a website in local you need xampp program (https://www.apachefriends.org/download.html)
+## To Run a website in local you need:
+  1) xampp program (https://www.apachefriends.org/download.html)
+  2) https://www.phpmyadmin.net/
+  3) https://drive.google.com/file/d/1rrT1CBaepwmHlbadFuNcz4KpQXy-Ku3S/view
